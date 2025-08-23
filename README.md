@@ -1,4 +1,4 @@
-* Data Cleaning 
+# Data Cleaning 
 - Changed all the columns to the correct data types.
   
 - Deleted unnecessary duplicates.
@@ -7,7 +7,7 @@
   
 - Replaced inaccurate spelling of strings to the right ones.
 
-* Insights Derived from Dashboard 
+# Insights Derived from Dashboard 
 
 - The festive seasons has caused an increment in sales for each year.
  
