@@ -15,7 +15,8 @@
   
 - Over the years, the ages 55-64 have the highest sales of $315,653 and the lowest sales fall in age of 65+ with $186,293.
 
-- Orders across genders are well balanced. 
+- Orders across genders are well balanced.
+  
    Suggestion : Marketing campaigns/Ads should be pushed evenly among genders as this promotes inclusivity.
 
 - Sales among the provinces is slightly even and well distributed.
